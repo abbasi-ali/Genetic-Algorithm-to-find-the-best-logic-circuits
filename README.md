@@ -5,7 +5,7 @@ In this project, I implemented a genetic algorithm to find a logical circuit tha
 1) And, Or, Xor <br>
 2) Nand, Nor, Xnor <br>
 
-The corresponding outputs for a given binary input is stated in a .csv file. <br>
+The corresponding output for a given binary input is stated in a .csv file. <br>
 The circuit takes 10 inputs so we have 2<sup>10</sup> = 1024 possible outputs / rows in the csv file. <br>
 
 One innovation that helped to find the circuit is that I defined the fitness function as follows: <br>
